@@ -1,0 +1,9 @@
+{
+  "customer_id": "acme-freight",
+  "customer_name": "Acme Freight",
+  "billing_month": "October 2026",
+  "currency": "USD",
+  "platform_fee": "200.00",
+  "included_requests": 1000,
+  "price_per_extra_request": "0.25"
+}
